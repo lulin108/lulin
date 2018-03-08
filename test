@@ -1,6 +1,10 @@
-这个第三个文件
+﻿这个第三个文件
 git rest --hard id  git log
+<<<<<<< HEAD
 
 本地D盘下的冲突插入
 
 
+=======
+git rest id即可
+>>>>>>> bed464d758827a97610f4ce9e3c10fa5d3c3d9dd
