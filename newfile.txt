@@ -2,5 +2,8 @@
 
 git shell 上传
 
-
 git 在修改 再上传
+
+使 用git commit
+	git add
+	git push pull
