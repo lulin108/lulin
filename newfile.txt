@@ -1,9 +1,2 @@
-klasdfjasjk;l
-dkasljf;
-klasdjf;
-lkasdfj;
-
-
-
-开始 上传了
-
+﻿
+git shell 上传
