@@ -1,2 +1,3 @@
 这个第三个文件
 git rest --hard id  git log
+git rest id即可
